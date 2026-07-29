@@ -24,6 +24,6 @@
       return;
     }                                                                                                                                                                                      
                                                                                                                                                                                          
-    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/cj7zg19l?campaign_id=14473&shareCode=UW6QUF9DFN2&afp1=oa' });                                                                                                                          
+    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/cj7zg19l?campaign_id=14473&shareCode=Z0XAAHK2MC7&afp1=oa' });                                                                                                                          
     res.end();                                                                                                                                                                           
   }
